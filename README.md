@@ -6,11 +6,7 @@ Testing Read the Docs integration/workflows
 
 Heres some more body text.
 
-
-
 ### ToC
-
-
 
 
 
